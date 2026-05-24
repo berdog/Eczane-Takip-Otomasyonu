@@ -1,0 +1,28 @@
+C:\Users\BERAT ERDOĞAN\source\repos\EczaneTakipSistemi\EczaneTakipSistemi\bin\Debug\EczaneTakipSistemi.exe.config
+C:\Users\BERAT ERDOĞAN\source\repos\EczaneTakipSistemi\EczaneTakipSistemi\bin\Debug\EczaneTakipSistemi.exe
+C:\Users\BERAT ERDOĞAN\source\repos\EczaneTakipSistemi\EczaneTakipSistemi\bin\Debug\EczaneTakipSistemi.pdb
+C:\Users\BERAT ERDOĞAN\source\repos\EczaneTakipSistemi\EczaneTakipSistemi\obj\Debug\EczaneTakipSistemi.csproj.AssemblyReference.cache
+C:\Users\BERAT ERDOĞAN\source\repos\EczaneTakipSistemi\EczaneTakipSistemi\obj\Debug\EczaneTakipSistemi.Properties.Resources.resources
+C:\Users\BERAT ERDOĞAN\source\repos\EczaneTakipSistemi\EczaneTakipSistemi\obj\Debug\EczaneTakipSistemi.csproj.GenerateResource.cache
+C:\Users\BERAT ERDOĞAN\source\repos\EczaneTakipSistemi\EczaneTakipSistemi\obj\Debug\EczaneTakipSistemi.csproj.CoreCompileInputs.cache
+C:\Users\BERAT ERDOĞAN\source\repos\EczaneTakipSistemi\EczaneTakipSistemi\obj\Debug\EczaneTakipSistemi.exe
+C:\Users\BERAT ERDOĞAN\source\repos\EczaneTakipSistemi\EczaneTakipSistemi\obj\Debug\EczaneTakipSistemi.pdb
+C:\Users\BERAT ERDOĞAN\source\repos\EczaneTakipSistemi\EczaneTakipSistemi\obj\Debug\EczaneTakipSistemi.exe.config
+C:\Users\BERAT ERDOĞAN\source\repos\EczaneTakipSistemi\EczaneTakipSistemi\obj\Debug\EczaneTakipSistemi.FrmIlaclar.resources
+C:\Users\BERAT ERDOĞAN\source\repos\EczaneTakipSistemi\EczaneTakipSistemi\obj\Debug\EczaneTakipSistemi.FrmGiris.resources
+C:\Users\BERAT ERDOĞAN\source\repos\EczaneTakipSistemi\EczaneTakipSistemi\obj\Debug\EczaneTakipSistemi.FrmKullaniciEkle.resources
+C:\Users\BERAT ERDOĞAN\source\repos\EczaneTakipSistemi\EczaneTakipSistemi\obj\Debug\EczaneTakipSistemi.FrmAdminPanel.resources
+C:\Users\vural\OneDrive\Masaüstü\EczaneTakipSistemi\EczaneTakipSistemi\bin\Debug\EczaneTakipSistemi.exe.config
+C:\Users\vural\OneDrive\Masaüstü\EczaneTakipSistemi\EczaneTakipSistemi\bin\Debug\EczaneTakipSistemi.exe
+C:\Users\vural\OneDrive\Masaüstü\EczaneTakipSistemi\EczaneTakipSistemi\bin\Debug\EczaneTakipSistemi.pdb
+C:\Users\vural\OneDrive\Masaüstü\EczaneTakipSistemi\EczaneTakipSistemi\obj\Debug\EczaneTakipSistemi.csproj.AssemblyReference.cache
+C:\Users\vural\OneDrive\Masaüstü\EczaneTakipSistemi\EczaneTakipSistemi\obj\Debug\EczaneTakipSistemi.exe.config
+C:\Users\vural\OneDrive\Masaüstü\EczaneTakipSistemi\EczaneTakipSistemi\obj\Debug\EczaneTakipSistemi.FrmAdminPanel.resources
+C:\Users\vural\OneDrive\Masaüstü\EczaneTakipSistemi\EczaneTakipSistemi\obj\Debug\EczaneTakipSistemi.FrmGiris.resources
+C:\Users\vural\OneDrive\Masaüstü\EczaneTakipSistemi\EczaneTakipSistemi\obj\Debug\EczaneTakipSistemi.FrmIlaclar.resources
+C:\Users\vural\OneDrive\Masaüstü\EczaneTakipSistemi\EczaneTakipSistemi\obj\Debug\EczaneTakipSistemi.FrmKullaniciEkle.resources
+C:\Users\vural\OneDrive\Masaüstü\EczaneTakipSistemi\EczaneTakipSistemi\obj\Debug\EczaneTakipSistemi.Properties.Resources.resources
+C:\Users\vural\OneDrive\Masaüstü\EczaneTakipSistemi\EczaneTakipSistemi\obj\Debug\EczaneTakipSistemi.csproj.GenerateResource.cache
+C:\Users\vural\OneDrive\Masaüstü\EczaneTakipSistemi\EczaneTakipSistemi\obj\Debug\EczaneTakipSistemi.csproj.CoreCompileInputs.cache
+C:\Users\vural\OneDrive\Masaüstü\EczaneTakipSistemi\EczaneTakipSistemi\obj\Debug\EczaneTakipSistemi.exe
+C:\Users\vural\OneDrive\Masaüstü\EczaneTakipSistemi\EczaneTakipSistemi\obj\Debug\EczaneTakipSistemi.pdb
